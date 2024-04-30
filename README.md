@@ -4,6 +4,9 @@ A Python GUI application that lets you quickly play sounds in a folder. Really u
 effects and want to quickly go through them. The feel of this is very similar to how FL Studio's file explorer on the
 left sidebar works.
 
+![image](https://github.com/i-winxd/sound-player/assets/31808925/6829df31-b171-4e5c-ac5d-bb5803dac058)
+
+
 ## Installation
 
 Any version of Python 3.9 or later works. Download it off the [Python website](https://python.org/). When installing, be sure to check `Add Python to PATH`. You will also need `pygame`. Install it by
