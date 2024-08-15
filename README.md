@@ -9,6 +9,10 @@ left sidebar works.
 
 ## Installation
 
+You can go to the releases tab and download the executable there.
+
+Alternatively, if you don't trust executable files, then:
+
 Any version of Python 3.9 or later works. Download it off the [Python website](https://python.org/). When installing, be sure to check `Add Python to PATH`. You will also need `pygame`. Install it by
 running `python -m pip install pygame`
 
